@@ -1,0 +1,5 @@
+package pak
+
+object objj {
+  
+}
